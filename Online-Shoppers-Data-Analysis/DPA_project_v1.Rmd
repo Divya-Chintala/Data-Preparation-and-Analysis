@@ -16,7 +16,7 @@ library(ggpubr)
 
 Loading dataset
 ```{r}
-#setwd("E:/DPA/project/")
+##setwd("E:/DPA/project/")
 data <- read.csv("online_shoppers_intention.csv")
 
 
